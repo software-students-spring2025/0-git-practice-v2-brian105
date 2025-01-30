@@ -1,2 +1,7 @@
-# Git Practice
-A simple project to practice a few git/github workflows.  Replace the contents of this file with the contents indicated in the [instructions](./instructions.md).
+
+# Thoughts On An Article Related To Software Engineering
+[Software in 2025: Simplification, Automation and Integration](https://thenewstack.io/software-in-2025-simplification-automation-and-integration/)
+
+I found the attitude the author had towards AI to be very interesting. Rather than thinking of AI as an implement to "cheat" while programming at work, he believes that AI can be used as a tool to accelerate software development, and in fact there may be training required to even use that AI. I find his point on "closing the AI skill gap" to be a little lacking, because although he acknowledges that many companies already have automation as key parts of their software development cycles, I believe that automation is usually used for building and testing. I don't think that the use of AI will create new skills, but rather that AI can be used as a "junior programmer" of sorts that is better suited to generating boilerplate code rather than anything complex.
+
+I would also challenge his point about "Siloed AI Applications"; AI has its place at work, but it is not to connect or communicate between different departments (we know full well from Apple Intelligence's Summaries feature how that could go wrong.) As the scope and complexity of a project increases, involving AI could then increase miscommunication and lead to smaller details being lost. I also doubt that many of the opinions and suggestions of AI would align with what stakeholders request.
